@@ -1,0 +1,64 @@
+baseurl = "https://example.com/"
+languageCode = "en-us"
+theme = "terminal"
+pagination.pagerSize = 5
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  contentTypeName = "posts"
+  showMenuItems = 4
+  fullWidthTheme = true
+  centerTheme = false
+  customCSS = ["assets/css/custom.css"]
+# Główne menu dla motywu terminal
+[[menu.main]]
+  identifier = "about"
+  name = "About me"
+  url = "/about"
+[[menu.main]]
+  identifier = "projects"
+  name = "Projects"
+  url = "/projects"
+[[menu.main]]
+  identifier = "content"
+  name = "Links"
+  url = "/content"
+[[menu.main]]
+  identifier = "links"
+  name = "Intresting links"
+  url = "/links"
+# [[menu.main]]
+#   identifier = "projekt-1"
+#   name = "Projekt 1"
+#   url = "/projects/projekt-1"
+#   parent = "projects"
+# [[menu.main]]
+#   identifier = "projekt-2"
+#   name = "Projekt 2"
+#   url = "/projects/projekt-2"
+#   parent = "projects"
+# [[menu.main]]
+#   identifier = "projekt-3"
+#   name = "Projekt 3"
+#   url = "/projects/projekt-3"
+#   parent = "projects"
+
+[languages]
+  [languages.en]
+    title = "FPGArktic"
+    subtitle = "FPGArktic"
+    keywords = ""
+    copyright = ""
+    menuMore = "Show more"
+    readMore = "Czytaj więcej"
+    readOtherPosts = "Przeczytaj inne posty"
+
+    [languages.en.params.logo]
+      logoText = "FPGArktic"
+      logoHomeLink = "/"
+
+[caches]
+  [caches.images]
+    dir = ":cacheDir/images"
