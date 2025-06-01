@@ -1,0 +1,12 @@
+# Hugo default output directory
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+# Temporary lock files
+.hugo_build.lock
+
+# Specstory
+.specstory/
+.specstory/history/*
