@@ -10,3 +10,5 @@ hugo_stats.json
 # Specstory
 .specstory/
 .specstory/history/*
+info
+themes/terminal/

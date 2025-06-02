@@ -133,27 +133,7 @@ Tables aren't part of the core Markdown spec, but Hugo supports supports them ou
 
 ### Code block with custom built-in `{{ < code > }}` shortcode
 
-{{< code title="Hey, this is a code block title" language="css" >}}
-pre {
-  background: #1a1a1d;
-  padding: 20px;
-  border-radius: 8px;
-  font-size: 1rem;
-  overflow: auto;
 
-  @media (--phone) {
-    white-space: pre-wrap;
-    word-wrap: break-word;
-  }
-
-  code {
-    background: none !important;
-    color: #ccc;
-    padding: 0;
-    font-size: inherit;
-  }
-}
-{{< /code >}}
 
 ## List Types
 

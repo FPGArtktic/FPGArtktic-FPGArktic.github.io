@@ -22,28 +22,14 @@ pagination.pagerSize = 5
   name = "Projects"
   url = "/projects"
 [[menu.main]]
-  identifier = "content"
-  name = "Links"
-  url = "/content"
+  identifier = "licensing"
+  name = "Licensing"
+  url = "/licensing"
 [[menu.main]]
   identifier = "links"
-  name = "Intresting links"
+  name = "Interesting links"
   url = "/links"
-# [[menu.main]]
-#   identifier = "projekt-1"
-#   name = "Projekt 1"
-#   url = "/projects/projekt-1"
-#   parent = "projects"
-# [[menu.main]]
-#   identifier = "projekt-2"
-#   name = "Projekt 2"
-#   url = "/projects/projekt-2"
-#   parent = "projects"
-# [[menu.main]]
-#   identifier = "projekt-3"
-#   name = "Projekt 3"
-#   url = "/projects/projekt-3"
-#   parent = "projects"
+
 
 [languages]
   [languages.en]
@@ -54,8 +40,8 @@ pagination.pagerSize = 5
       subtitle = "FPGArktic"
       keywords = ""
       menuMore = "Show more"
-      readMore = "Czytaj więcej"
-      readOtherPosts = "Przeczytaj inne posty"
+      readMore = "Read more"
+      readOtherPosts = "Read another posts"
 
     [languages.en.params.logo]
       logoText = "FPGArktic"

@@ -1,0 +1,1 @@
+git clone https://github.com/FPGArtktic/fiolet-hugo-theme-terminal themes/terminal
