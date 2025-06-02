@@ -12,9 +12,14 @@ Download: https://style64.org/release/c64-truetype-v1.2.1-style
 
 License: (idk but there is text of license)
 
-License "Our C64 TrueType fonts provide monospace and variable pitch versions of the legendary C64 character set. Our goal is to provide all 304 necessary glyphs in the C64 character set in as small a file as possible while still being programmer/builder friendly.
+Fonts in this package are (c) 2010-2019 Style.
 
-This update corrects some bounding box issues as reported in the updated Microsoft Font Validator, left side bearing on one glyph, and updates some PS names. This update also adds a 'proper' OpenType format (.otf) with CFF outlines. All files should be smaller than the previous release. SVG format has been dropped."
+This license is applicable to each font file included in this package in all their variants (ttf, otf, eot, woff, woff2, svg).
+
+You MAY NOT: sell this font; include/redistribute the font in any font collection regardless of pricing; provide the font for direct download from any web site, modify or rename the font. You MAY: link to "http://style64.org/c64-truetype" in order for others to download and install the font; embed the font (without any modification or file renaming) for display on any web site using @font-face rules; use this font in static images and vector art; include this font (without any modification or file renaming) as part of a software package but ONLY if said software package is freely provided to end users. You may also contact us to negotiate a (possibly commercial) license for your use outside of these guidelines at "http://style64.org/contact-style".
+
+At all times the most recent version of this license can be found at "http://style64.org/c64-truetype/license".
+
 </div>
 
 ***
