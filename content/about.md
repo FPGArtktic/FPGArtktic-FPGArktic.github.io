@@ -10,8 +10,8 @@ Hey everyone! I'm Mateusz, hailing from the beautiful country, Poland. My profes
 
 ## Personal Interests
 
-When I'm not immersed in code, you'll often find me out on the water, paddling my kayak (you can check out my adventures on my [ <YouTube channel>](https://www.youtube.com/channel/UCZ4LH0jrgK2l0PJ-q9K6hTA/videos)). I'm also a passionate bibliophile, always exploring new books, and I channel my creativity into music production and writing poetry. Plus, I have a keen interest in ornithology – there's so much to learn about birds!
+When I'm not immersed in code, you'll often find me out on the water, paddling my kayak (you can check out my adventures on my [<<< YouTube channel >>>](https://www.youtube.com/channel/UCZ4LH0jrgK2l0PJ-q9K6hTA/videos)). I'm also a passionate bibliophile, always exploring new books, and I channel my creativity into music production and writing poetry. Plus, I have a keen interest in ornithology – there's so much to learn about birds!
 
 ## Contact
 
-I am currently open to new job offers and collaborations. Feel free to reach out via [GitHub](https://github.com/FPGArtktic) or email at [FPGArtktic@outlook.com](FPGArtktic@outlook.com).
+I am currently open to new job offers and collaborations. Feel free to reach out via [GitHub](https://github.com/FPGArtktic) or email at [FPGArtktic@outlook.com](FPGArtktic@outlook.com) in worst case my [ <<< Facebook >>> ](https://www.facebook.com/Mateusz.Witez/).
