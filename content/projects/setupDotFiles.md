@@ -3,7 +3,7 @@ title: "setup-dotFiles - My personal dotfiles and configuration scripts for Ubun
 date: 2025-06-02 
 ---
 
-setup-DotFiles is a collection of personal dotfiles and configuration scripts for quickly setting up an Ubuntu 24.04 development environment. The project automates the installation of essential packages, configures tools like git, tmux, and fzf, and applies custom settings for productivity and convenience.
+setup-DotFiles is a collection of personal dotfiles and configuration scripts for quickly setting up an Ubuntu 24.04, Ubuntu 22.04, Ubuntu 20.04, Debian Bookworm and Debian Bullseye development environment. The project automates the installation of essential packages, configures tools like git, tmux, and fzf, and applies custom settings for productivity and convenience.
 
 ## Key Features
 - **Automated Package Installation:** Installs core packages such as git, build-essential, curl, and more.
